@@ -6,5 +6,6 @@ namespace DungeonThing
 {
     class Player
     {
+        public float health = 100;
     }
 }

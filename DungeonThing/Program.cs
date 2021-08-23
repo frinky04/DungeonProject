@@ -8,6 +8,11 @@ namespace DungeonThing
         {
             Player player = new Player();
 
+            while (player.health >= 1)
+            {
+
+            }
+
         }
     }
 }
