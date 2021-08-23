@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 
 namespace DungeonThing
 {
@@ -10,7 +11,7 @@ namespace DungeonThing
 
             while (player.health >= 1)
             {
-
+                player.PlayerTurn();
             }
 
         }

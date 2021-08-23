@@ -7,6 +7,6 @@ namespace DungeonThing
 {
     class Enemy
     {
-        public Vector2 position = new Vector2(0, 0);
+        
     }
 }
